@@ -58,9 +58,10 @@ Japanese Language Teacher
         10
     </score>
     <score_reasons> 
-        BAD: Doesn't provide verbose text at the start and show vocabulary immediately
-        BAD: Shows conceptual sentence structure
-        BAD: Clues don't give away any of the tense or conjugations.
+        GOOD: Doesn't provide verbose text at the start and show vocabulary immediately
+        GOOD: Shows conceptual sentence structure
+        GOOD: Clues don't give away any of the tense or conjugations.
+        GOOD: doesn't give particles
     </score_reasons>
     <assistant: output>
         let me provide you with the vocabulary and structure for this compound sentence.

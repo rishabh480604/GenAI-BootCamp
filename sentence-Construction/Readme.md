@@ -9,7 +9,7 @@ Lamma 4 Maverick : general-purpose tasks, including precise image understanding 
 Both models utilize a Mixture-of-Experts (MoE) architecture with 17 billion active parameters
 
 ## Prompting Guide 
-
+    https://www.llama.com/docs/how-to-guides/prompting/
 
 Lamma 4 doesnt have any prompt requirement to best understand like other models
 
